@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Resume</string>
+    <string name="cName">Name</string>
+    <string name="rName">Enter Your Name Here</string>
+    <string name="cEducation">Education</string>
+    <string name="rEd1">Institution</string>
+    <string name="rEd1_1">Degree</string>
+    <string name="cTechSkill">Technical Skills</string>
+    <string name="rTechSkills1">Technical Skills 1</string>
+    <string name="rTechSkills2">Technical Skills 2</string>
+    <string name="rTechSkills3">Technical Skills 3</string>
+    <string name="rTechSkills4">Technical Skills 4</string>
+    <string name="cExtra">Extra Courses</string>
+    <string name="rExtra1">Extra Course 1</string>
+    <string name="rExtra2">Extra Course 2</string>
+</resources>
